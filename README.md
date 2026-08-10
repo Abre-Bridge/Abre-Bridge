@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,50:8b0000,100:ff2020&height=220&section=header&text=Almight&fontSize=80&fontFamily=Orbitron&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Red%20Team%20Operator%20%7C%20CTO%20%40%20XyberClan&descAlignY=62&descColor=ff6060&descSize=14&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,50:8b0000,100:ff2020&height=220&section=header&text=BRIDGE&fontSize=80&fontFamily=Orbitron&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Red%20Team%20Operator%20%7C%20CTO%20%40%20XyberClan&descAlignY=62&descColor=ff6060&descSize=14&descAlign=50" />
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1000&color=FF2020&center=true&vCenter=true&width=580&lines=whoami+%3E+almight;CTO+%40+XyberClan+%7C+xyberclan.dev;Breaking+defenses.+Thinking+like+an+attacker.;798%2B+commits+and+still+going.;If+it+runs%2C+it+can+be+owned." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1000&color=FF2020&center=true&vCenter=true&width=580&lines=echo $G.O.A.T+%3E+bridge;Breaking+defenses.+Thinking+like+an+attacker.;798%2B+commits+and+still+going.;If+it+runs%2C+it+can+be+hacke." alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -88,16 +88,16 @@
 
 <div align="center">
 
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=almight&theme=github_dark" />
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=almight&theme=github_dark" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abre-Bridge&theme=github_dark" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abre-Bridge&theme=github_dark" />
 
 <br/>
 
-<img width="68%" src="https://streak-stats.demolab.com?user=almight&theme=dark&background=0d0000&ring=ff2020&fire=ff4040&currStreakLabel=ff2020&sideLabels=888888&dates=444444&border=ff202033&stroke=ff202011" />
+<img width="68%" src="https://streak-stats.demolab.com?user=Abre-Bridge&theme=dark&background=0d0000&ring=ff2020&fire=ff4040&currStreakLabel=ff2020&sideLabels=888888&dates=444444&border=ff202033&stroke=ff202011" />
 
 <br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=almight&theme=github-compact&bg_color=0d0000&color=ff2020&line=8b0000&point=ff2020&area=true&area_color=ff202015&hide_border=false&border_color=ff202033&custom_title=contribution+graph" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abre-Bridge&theme=github-compact&bg_color=0d0000&color=ff2020&line=8b0000&point=ff2020&area=true&area_color=ff202015&hide_border=false&border_color=ff202033&custom_title=contribution+graph" />
 
 </div>
 
@@ -134,7 +134,7 @@ GITHUB : github.com/Abre-Bridge
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2020,50:8b0000,100:0d0000&height=100&section=footer" />
 ```
- "404 FLAW NOT FOUND"
+ 404 FLAW NOT FOUND
   ```
 
 </div>
