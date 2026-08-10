@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,50:8b0000,100:ff2020&height=220&section=header&text=BRIDGE&fontSize=80&fontFamily=Orbitron&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Red%20Team%20Operator%20%7C%20One%20%40%20Man%20%40%20IT%20%40%20Department%20%40%20XyberBridge&descAlignY=62&descColor=ff6060&descSize=14&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,50:8b0000,100:ff2020&height=220&section=header&text=BRIDGE&fontSize=80&fontFamily=Orbitron&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Red%20Team%20Operator%20%7C%20One%20Man%20IT%20Department%20%40%20XyberBridge&descAlignY=62&descColor=ff6060&descSize=14&descAlign=50" />
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1000&color=FF2020&center=true&vCenter=true&width=580&lines=whoami+%3E+bridge;Breaking+defenses.+Thinking+like+an+attacker.;798%2B+commits+and+still+going.;If+it+runs%2C+it+can+be+hacked." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1000&color=FF2020&center=true&vCenter=true&width=580&lines=whoami+%3E+bridge.;Elite+Mindset.;I+am+the+Danger.;20000%2B+commits+and+still+going.;If+it+runs%2C+it+can+be+hacked." alt="Typing SVG" />
 </a>
 
 <br/><br/>
