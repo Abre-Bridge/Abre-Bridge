@@ -4,7 +4,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1000&color=FF2020&center=true&vCenter=true&width=580&lines=whoami+%3E+bridge.;Elite+Mindset.;I+am+the+Danger.;20000%2B+commits+and+still+going.;If+it+runs%2C+it+can+be+hacked." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1000&color=FF2020&center=true&vCenter=true&width=580&lines=whoami+%3E+bridge;I+am+the+Danger;20000%2B+commits+just+the+begining;If+it+runs%2C+it+can+be+hacked" alt="Typing SVG" />
 </a>
 
 <br/><br/>
