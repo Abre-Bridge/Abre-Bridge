@@ -1,19 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,50:8b0000,100:ff2020&height=220&section=header&text=BRIDGE&fontSize=80&fontFamily=Orbitron&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Red%20Team%20Operator%20%7C%20CTO%20%40%20XyberClan&descAlignY=62&descColor=ff6060&descSize=14&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,50:8b0000,100:ff2020&height=220&section=header&text=BRIDGE&fontSize=80&fontFamily=Orbitron&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Red%20Team%20Operator%20%7C%20One%20%40%20Man%20%40%20IT%20%40%20Department%20%40%20XyberBridge&descAlignY=62&descColor=ff6060&descSize=14&descAlign=50" />
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1000&color=FF2020&center=true&vCenter=true&width=580&lines=echo\ $G.O.A.T+%3E+bridge;Breaking+defenses.+Thinking+like+an+attacker.;798%2B+commits+and+still+going.;If+it+runs%2C+it+can+be+hacke." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1000&color=FF2020&center=true&vCenter=true&width=580&lines=whoami+%3E+bridge;Breaking+defenses.+Thinking+like+an+attacker.;798%2B+commits+and+still+going.;If+it+runs%2C+it+can+be+hacked." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 [![](https://img.shields.io/badge/OPEN%20FOR-HACKING%20CONTRIBUTIONS-ff2020?style=for-the-badge&logo=git&logoColor=white&labelColor=0d0d0d)](/)
 [![](https://img.shields.io/badge/OPEN%20FOR-CODE%20COLLABORATION-ff2020?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](/)
-[![](https://img.shields.io/badge/HackTheBox-ACTIVE-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=9fef00&labelColor=0d0d0d)](https://app.hackthebox.com/profile/almight)
+[![](https://img.shields.io/badge/HackTheBox-ACTIVE-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=9fef00&labelColor=0d0d0d)](https://app.hackthebox.com/profile/xyberbridge)
 [![](https://img.shields.io/badge/-RED%20TEAM%20OPERATOR-ff2020?style=flat-square&logo=target&logoColor=white&labelColor=0d0d0d)](/)
-[![](https://img.shields.io/badge/-CTO%20@%20XYBERCLAN-ff2020?style=flat-square&logo=icloud&logoColor=white&labelColor=0d0d0d)](https://xyberclan.dev)
-[![](https://img.shields.io/badge/-78%20REPOS-ff2020?style=flat-square&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/almight?tab=repositories)
+[![](https://img.shields.io/badge/-78%20REPOS-ff2020?style=flat-square&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/Abre-Bridge)
 [![](https://img.shields.io/badge/-798%2B%20COMMITS-ff2020?style=flat-square&logo=git&logoColor=white&labelColor=0d0d0d)](/)
 
 </div>
