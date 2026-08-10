@@ -4,7 +4,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1000&color=FF2020&center=true&vCenter=true&width=580&lines=echo $G.O.A.T+%3E+bridge;Breaking+defenses.+Thinking+like+an+attacker.;798%2B+commits+and+still+going.;If+it+runs%2C+it+can+be+hacke." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1000&color=FF2020&center=true&vCenter=true&width=580&lines=echo\ $G.O.A.T+%3E+bridge;Breaking+defenses.+Thinking+like+an+attacker.;798%2B+commits+and+still+going.;If+it+runs%2C+it+can+be+hacke." alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -128,7 +128,7 @@ GITHUB : github.com/Abre-Bridge
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=bridge&color=ff2020&style=flat-square&label=PROFILE+VIEWS&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=Abre-Bridge&color=ff2020&style=flat-square&label=PROFILE+VIEWS&abbreviated=true)
 
 <br/>
 
