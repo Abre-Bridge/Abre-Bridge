@@ -92,10 +92,6 @@
 
 <br/>
 
-<img width="68%" src="https://streak-stats.demolab.com?user=Abre-Bridge&theme=dark&background=0d0000&ring=ff2020&fire=ff4040&currStreakLabel=ff2020&sideLabels=888888&dates=444444&border=ff202033&stroke=ff202011" />
-
-<br/>
-
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abre-Bridge&theme=github-compact&bg_color=0d0000&color=ff2020&line=8b0000&point=ff2020&area=true&area_color=ff202015&hide_border=false&border_color=ff202033&custom_title=contribution+graph" />
 
 </div>
