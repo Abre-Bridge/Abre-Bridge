@@ -92,7 +92,6 @@
 
 <br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abre-Bridge&theme=github-compact&bg_color=0d0000&color=ff2020&line=8b0000&point=ff2020&area=true&area_color=ff202015&hide_border=false&border_color=ff202033&custom_title=contribution+graph" />
 
 </div>
 
